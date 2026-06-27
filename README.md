@@ -29,19 +29,19 @@ The README was written from the repository contents, including its manifest file
 
 ## Project Structure
 
-`	ext
+```text
 .
 |-- Bot Discord/bot.py
 |-- Bot Discord/readme.txt
 |-- Bot Discord/streaks.json
 |-- README.md
-`
+```
 
 ## Setup
 
-`ash
+```bash
 Review the source files in this repository and run them with the matching local toolchain.
-`
+```
 
 ## What This Project Demonstrates
 
